@@ -1,11 +1,11 @@
-<h1 align="left">Hey 👋 What's up? I am Dhairya Patel!</h1>
+<h1 align="left">Hey 👋 What's up? I am Dhairya !!</h1>
 
 ###
 
 <h4 align="left">
-🔍 Currently exploring: Machine Learning, Deep Learning, and AI system design.<br>
-📘 Learning: Time-series modeling, Reinforcement Learning, LLM workflows, and scalable ML pipelines.<br>
-💡 Areas of interest: Algorithmic Trading, AI-driven decision systems, and real-world ML applications.
+🔍 Currently exploring: Machine Learning, Deep Learning, AI system design and NLP.<br>
+📘 Learning: Time-series modeling, LLM workflows, and scalable ML pipelines.<br>
+💡 Areas of interest: Algorithmic Trading, AI-driven decision systems, and real-world ML applications, NLP.
 </h4>
 
 ###
@@ -23,11 +23,13 @@
 ###
 
 <p align="left">
-Hi, I’m Dhairya Patel 👋<br><br>
+Hi, I’m Dhairya👋<br><br>
 
 I’m a developer interested in building intelligent systems using Artificial Intelligence and Machine Learning.<br><br>
 
-Currently, I am working on developing AI-powered algorithmic trading systems for the Indian stock market. My work focuses on building complete pipelines including data ingestion, feature engineering, ML models, and automated decision systems.<br><br>
+Currently, I am working on developing AI-powered algorithmic trading systems for the stock markets across world. My work focuses on building complete pipelines including data ingestion, feature engineering, ML models, and automated decision systems.<br><br>
+
+Currently, I am exploring Natural Language Processing and Large Language Models (LLMs). My work focuses on building intelligent NLP pipelines including text processing, embedding models, LLM workflows, and real-world AI applications powered by language understanding.<br><br>
 
 I strongly believe in learning by building real-world systems. This GitHub is a record of my experiments, projects, and technical exploration in AI, trading systems, and scalable software development 🚀
 </p>
@@ -58,14 +60,14 @@ I strongly believe in learning by building real-world systems. This GitHub is a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
 <img width="12"/>
 
-<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" height="40" alt="streamlit logo"/>
+<!-- <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" height="40" alt="streamlit logo"/>
 <img width="12"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" height="40" alt="langchain logo"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"/>
-<img width="12"/>
+<img width="12"/> -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
 <img width="12"/>
@@ -91,12 +93,12 @@ I strongly believe in learning by building real-world systems. This GitHub is a 
 
 <div align="left">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/dhairya4252/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
 </a>
 
-<a href="https://www.hackerrank.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"/>
+<a href="https://leetcode.com/u/dhairya_4252/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"/>
 </a>
 
 </div>
