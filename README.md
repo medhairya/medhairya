@@ -36,11 +36,6 @@ I strongly believe in learning by building real-world systems. This GitHub is a 
 
 ###
 
-<h2 align="left">AI Trading Systems</h2>
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
-</div>
 
 
 <h2 align="left">Tech Stack</h2>
@@ -105,9 +100,8 @@ I strongly believe in learning by building real-world systems. This GitHub is a 
 </a>
 
 <a href="https://leetcode.com/u/dhairya_4252/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="40" height="40" alt="LeetCode Profile"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"/>
 </a>
-
 
 </div>
 
