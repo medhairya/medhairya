@@ -100,17 +100,21 @@ I strongly believe in learning by building real-world systems. This GitHub is a 
 </a>
 
 <a href="https://leetcode.com/u/dhairya_4252/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="52" height="40" alt="LeetCode"/>
 </a>
 
 </div>
 
 ###
 
-<div align="center">
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhairya&layout=compact&theme=dark&hide_border=true" />
+</p> -->
+
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medhairya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"/>
 
-</div>
+</div> -->
 
 ###
