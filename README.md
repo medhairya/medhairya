@@ -5,7 +5,7 @@
 <h4 align="left">
 🔍 Currently exploring: Machine Learning, Deep Learning, AI system design and NLP.<br>
 📘 Learning: Time-series modeling, LLM workflows, and scalable ML pipelines.<br>
-💡 Areas of interest: Algorithmic Trading, AI-driven decision systems, and real-world ML applications, NLP.
+💡 Areas of interest: AI-driven decision systems, and real-world ML applications, NLP.
 </h4>
 
 ###
