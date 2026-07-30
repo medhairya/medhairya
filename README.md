@@ -27,7 +27,6 @@ Hi, I’m Dhairya👋<br><br>
 
 I’m a developer interested in building intelligent systems using Artificial Intelligence and Machine Learning.<br><br>
 
-Currently, I am working on developing AI-powered algorithmic trading systems for the stock markets across world. My work focuses on building complete pipelines including data ingestion, feature engineering, ML models, and automated decision systems.<br><br>
 
 Currently, I am exploring Natural Language Processing and Large Language Models (LLMs). My work focuses on building intelligent NLP pipelines including text processing, embedding models, LLM workflows, and real-world AI applications powered by language understanding.<br><br>
 
